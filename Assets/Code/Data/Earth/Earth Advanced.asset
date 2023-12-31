@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 041b8a8ec02f65f4fae1c6615e95f1f6, type: 3}
+  m_Name: Earth Advanced
+  m_EditorClassIdentifier: 
+  <IsRootSkill>k__BackingField: 0
+  <Description>k__BackingField: Earth Advanced
+  <Type>k__BackingField: 2
+  <Cost>k__BackingField: 2
+  <LinkedSkills>k__BackingField:
+  - {fileID: 11400000, guid: 9a2f9136dcbd5da4d937ff4fa68c57d2, type: 2}
+  - {fileID: 11400000, guid: 92a70d8e607c6e44c8616838cefa0e8b, type: 2}
+  - {fileID: 11400000, guid: 17fdbf0b94b51dd41bfd93d9e84393b2, type: 2}
+  - {fileID: 11400000, guid: 926a25b52da5f9e4b9466ea21d2bb28c, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 041b8a8ec02f65f4fae1c6615e95f1f6, type: 3}
+  m_Name: Air Push 2
+  m_EditorClassIdentifier: 
+  <IsRootSkill>k__BackingField: 0
+  <Description>k__BackingField: Air Push 2
+  <Type>k__BackingField: 0
+  <Cost>k__BackingField: 2
+  <LinkedSkills>k__BackingField:
+  - {fileID: 11400000, guid: 53f7a89c320cfba479099a3489c4a177, type: 2}
+  - {fileID: 11400000, guid: 5e7e94306f3f0234e92122e7c5351154, type: 2}

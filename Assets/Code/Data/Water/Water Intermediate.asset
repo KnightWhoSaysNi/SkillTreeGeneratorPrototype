@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 041b8a8ec02f65f4fae1c6615e95f1f6, type: 3}
+  m_Name: Water Intermediate
+  m_EditorClassIdentifier: 
+  <IsRootSkill>k__BackingField: 0
+  <Description>k__BackingField: Water Intermediate
+  <Type>k__BackingField: 1
+  <Cost>k__BackingField: 1
+  <LinkedSkills>k__BackingField:
+  - {fileID: 11400000, guid: 0f231211b246b684caa3fd58d36509ab, type: 2}
+  - {fileID: 11400000, guid: 21a5c40830c354e409a16a0c80ca5570, type: 2}
